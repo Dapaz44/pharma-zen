@@ -1,0 +1,31 @@
+body {
+
+}
+
+header {
+    display: flex;
+    flex-direction: row; 
+    background-color: #2541B2;
+    justify-content: space-between;
+
+    background-color: blue;
+}
+
+.logo {
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+
+}
+
+.navbar {
+width: 3rem; 
+
+
+}
+.navbar ol {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
